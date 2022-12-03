@@ -1,0 +1,16 @@
+{
+  "employee": [
+    {
+      "name": "anil dahiya",
+      "email": "dahiya694@gmail.com",
+      "phone": "8770470012",
+      "dob": "1998-12-31",
+      "gender": "male",
+      "hobbies": [
+        "Travelling",
+        "Playing"
+      ],
+      "id": 1
+    }
+  ]
+}
